@@ -29,6 +29,8 @@ This repository contains a comprehensive Python script for analyzing YouTube com
 - Visualization:
 
     - Utilizes Plotly to create interactive bar charts for emoji frequency.
+
+      Dataset Zip File Link : https://drive.google.com/file/d/1-26ljtH9IhEFK3cRozxughBg-XnprqWA/view?usp=sharing
 ## Dependencies
 
 - `pandas`
